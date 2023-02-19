@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\Лиан\race\enemy.h(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Лиан\race\enemy.h(20,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Лиан\race\enemy.h(23,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Лиан\race\enemy.h(27,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Лиан\race\enemy.h(31,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Лиан\race\explosion.h(28,54): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+D:\Лиан\race\main.cpp(13,46): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+D:\Лиан\race\main.cpp(13,32): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+D:\Лиан\race\main.cpp(18,27): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+  race.vcxproj -> D:\Лиан\race\x64\Debug\race.exe
